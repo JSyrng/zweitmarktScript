@@ -1,1 +1,2 @@
 # zweitmarktScript
+Automatisiertes Script zur Ticket-Suche und schnellen Buchung im Zweitmarkt Bereich eines Erstliga Vereins. Das Script prüft alle angegebenen Platzkategorien im Intervall von 0,2 Sekunden und legt rückläufige Tickets direkt in den Warenkorb. Bei Erfolg wird eine Sounddatei abgespielt und die Seite neu geladen.
